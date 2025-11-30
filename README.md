@@ -14,8 +14,8 @@ Traditional BIM creation requires **manual measurement** and modeling
 ### Our Solution
 **Automated Pipeline: Images → 3D Point Cloud → Structural Planes**
 
-![Kitchen Scene](images/kitchen.PNG)
-![Front View](images/front.PNG)
+![Kitchen Scene](images/kitchen4.PNG)
+![Front View](images/front2.PNG)
 
 **Key Innovation**: AI-powered object removal + geometric plane extraction
 
