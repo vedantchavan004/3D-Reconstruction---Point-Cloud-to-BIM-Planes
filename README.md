@@ -26,10 +26,10 @@ Traditional BIM creation requires **manual measurement** and modeling
 ### Four-Step Process
 
 ```
-┌─────────────┐    ┌───────────────┐    ┌─────────────┐    ┌─────────────┐
-│   Images    │ -> │ Remove Objects│ -> │ Point Cloud │ -> │   Planes    │
-│  (3-5 pics) │    │  (YOLO + SAM) │    │   (VGGT)    │    │  (RANSAC)   │
-└─────────────┘    └───────────────┘    └─────────────┘    └─────────────┘
+┌─────────────┐    ┌───────────────┐    ┌───────────────┐    ┌─────────────┐
+│   Images    │ -> │ Remove Objects│ -> │  Point Cloud  │ -> │   Planes    │
+│             │    │  (YOLO + SAM) │    │(modified VGGT)│    │  (RANSAC)   │
+└─────────────┘    └───────────────┘    └───────────────┘    └─────────────┘
 ```
 
 ### Technologies Used
